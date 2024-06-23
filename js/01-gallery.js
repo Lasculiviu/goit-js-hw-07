@@ -38,7 +38,7 @@ function onGalleryContainerClick(event) {
 }
 
 function openModal(imageURL) {
-  // Creăm elementele modalului dinamic
+
   const modal = document.createElement('div');
   modal.classList.add('modal');
   
